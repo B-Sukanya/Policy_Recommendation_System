@@ -1,4 +1,4 @@
-# Insurance Policy Recommendation 
+# Policy Recommendation System
 
 
-AI suggests personalized insurance policies based on customer data to recommend tailored insurance products for individual customer needs.
+An AI powered system that analyzes customer data & recommends personalized policies based on individual customer needs. 

@@ -1,0 +1,6 @@
+plan_name,monthly_premium,annual_coverage,deductible,network,tier,telehealth,wellness,family,score_label,description
+Essential Care,96,250000,1500,Core network,Essential,True,False,False,Value focused,Affordable protection for everyday healthcare needs
+Flexi Protect,148,500000,750,Extended network,Balanced,True,True,True,Best overall fit,Balanced cover with flexible access and preventive benefits
+Premier Shield,245,1000000,250,Premium global network,Premium,True,True,True,Maximum protection,Comprehensive coverage for customers prioritising certainty
+Healthy Start,78,150000,2000,Core network,Basic,True,True,False,Preventive care,Low-cost cover with wellness support for individuals
+Family Plus,188,750000,500,Extended network,Family,True,True,True,Family focused,Enhanced cover for growing households

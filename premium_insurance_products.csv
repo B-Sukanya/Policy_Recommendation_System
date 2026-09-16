@@ -1,0 +1,5 @@
+plan_name,monthly_premium,annual_coverage,deductible,network,tier,telehealth,wellness,family,score_label,description
+Silver Select,125,300000,1200,Extended network,Standard,True,False,False,Accessible protection,Affordable cover with a broad provider network
+Gold Advantage,210,750000,500,Premium national network,Premium,True,True,True,Strong protection,High-value cover with wellness and family benefits
+Platinum Global,365,2000000,100,Global premium network,Elite,True,True,True,Maximum protection,Premium worldwide protection with a low deductible
+Executive Health,290,1000000,250,Premium national network,Executive,True,True,False,Executive choice,High-limit individual cover with concierge-style access

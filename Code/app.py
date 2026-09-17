@@ -6,7 +6,7 @@ import streamlit as st
 
 
 st.set_page_config(
-    page_title="InsurAI | Policy Recommendation",
+    page_title="Insurance | Policy Recommendation",
     page_icon="🛡️",
     layout="wide",
     initial_sidebar_state="expanded",

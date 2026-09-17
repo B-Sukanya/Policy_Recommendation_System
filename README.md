@@ -15,7 +15,6 @@ personalized and data-driven.
 - Analyzes customer information and requirements
 - Provides personalized insurance recommendations
 - Uses AI-driven recommendation logic
-- Simple Python-based implementation
 - Easy to extend with additional insurance products and customer attributes
 
 ## Technologies Used

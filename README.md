@@ -29,6 +29,6 @@ personalized and data-driven.
 ```text
 Policy_Recommendation_System/
 │
-├── app.py
+├── code/app.py
 ├── requirements.txt
 └── README.md
